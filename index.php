@@ -7,7 +7,7 @@
 <body>
     <h1>BiblioTech</h1>
     
-    <h2>Inserisci un nuovo articolo:</h2>
+    <h1></h1>
     <form method="post" action="">
         <label>Nome:</label><br>
         <input type="text" name="nome" required><br>
@@ -33,7 +33,7 @@
     $host = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "articolinformatici";
+    $dbname = "bibliotech";
 
     // Connessione al database
     $conn = new mysqli($host, $username, $password, $dbname);
