@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>BiblioTech </title>
-    <link rel="stylesheet" href="gestyle.css">
+    <link rel="stylesheet" href="resources/gestyle.css">
 </head>
 <body>
     <h1>BiblioTech</h1>
